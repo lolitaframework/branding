@@ -24,6 +24,15 @@ Any help is appreciated. The project is open-source and we encourage you to part
 * Following us on Twitter
 * Sharing the project around your community
 
+## Links
+
+* [Loliat Framework](http://lolitaframework.com)
+* [Docs](http://lolitaframework.com/2016/11/24/lolita-framework/)
+* [GitHub](https://github.com/gcofficial)
+* [LinkedIn](https://www.linkedin.com/in/eugen-gurev-17231497/)
+* [Email](mailto:eugen.guriev@lolitaframework.com)
+
+
 ## Getting Started
 
 To get started, just install the included plugin in your downloaded file from envato market.
