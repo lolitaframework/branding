@@ -1,4 +1,4 @@
-![Branding](https://raw.githubusercontent.com/lolitaframework/branding/master/promo/banner-1544x500.png)
+![Branding](/promo/banner-1544x500.png)
 #Branding – Wordpress Plugin
 **If you have an open vacancy for me, please feel free to email [with me](mailto:eugen.guriev@lolitaframework.com).**
 
@@ -45,9 +45,18 @@ Styling and branding a login page is so easy. Goto customizer in wordpress backe
 * Change input text color.
 
 ## Examples
-![Theme 1](https://raw.githubusercontent.com/lolitaframework/branding/master/promo/theme1.gif)
+![Theme 1](/promo/theme1.gif)
 **Video:** [https://www.youtube.com/watch?v=8WhjVr5n2PY](https://www.youtube.com/watch?v=8WhjVr5n2PY)
 
 
 ![Theme 2](/promo/theme2.gif)
-**Video:** [ https://www.youtube.com/watch?v=A_csIzoUI1k]( https://www.youtube.com/watch?v=A_csIzoUI1k)
+**Video:** [ https://www.youtube.com/watch?v=A_csIzoUI1k](https://www.youtube.com/watch?v=A_csIzoUI1k)
+
+![Theme 3](/promo/theme3.gif)
+**Video:** [https://www.youtube.com/watch?v=sDomNVaC_Uc](https://www.youtube.com/watch?v=sDomNVaC_Uc)
+
+![Theme 4](/promo/theme4.gif)
+**Video:** [https://www.youtube.com/watch?v=6iEFrnv8jhE](https://www.youtube.com/watch?v=6iEFrnv8jhE)
+
+![Theme 5](/promo/theme5.gif)
+**Video:** [https://www.youtube.com/watch?v=uJoI5w6aEsw](https://www.youtube.com/watch?v=uJoI5w6aEsw)
