@@ -1,0 +1,1 @@
+Lolita framework is a tool to help you develop websites, plugins and web applications faster using WordPress. Using an elegant and simple code syntax, Lolita framework helps you structure and organize your code and allows you to better manage and scale your WordPress websites, plugins and applications. <b> Just fucking awesome! </b>

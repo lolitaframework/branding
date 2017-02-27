@@ -1,0 +1,5 @@
+{
+    "{{ \\branding\\ModelOptions::signIn }}" : ["\\branding\\ModelPages", "login"],
+    "{{ \\branding\\ModelOptions::lostPassword }}" : ["\\branding\\ModelPages", "lostPassword"],
+    "{{ \\branding\\ModelOptions::signUp }}" : ["\\branding\\ModelPages", "registration"]
+}

@@ -1,0 +1,6 @@
+[
+    ["lostpassword_url", ["\\branding\\ModelFilters", "replaceLostPasswordUrl"]],
+    ["login_url", ["\\branding\\ModelFilters", "replaceLoginUrl"]],
+    ["register_url", ["\\branding\\ModelFilters", "replaceRegisterUrl"]],
+    ["upload_mimes", ["\\branding\\ModelFilters", "addMimeSvg"]]
+]

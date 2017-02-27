@@ -1,0 +1,11 @@
+[
+    ["login_init", ["\\branding\\ModelActions", "checkLogin"]],
+    ["wp_ajax_branding_login", ["\\branding\\ModelActions", "login"]],
+    ["wp_ajax_nopriv_branding_login", ["\\branding\\ModelActions", "login"]],
+    ["wp_ajax_branding_lost_password", ["\\branding\\ModelActions", "lostPassword"]],
+    ["wp_ajax_nopriv_branding_lost_password", ["\\branding\\ModelActions", "lostPassword"]],
+    ["wp_ajax_branding_registration", ["\\branding\\ModelActions", "registration"]],
+    ["wp_ajax_nopriv_branding_registration", ["\\branding\\ModelActions", "registration"]],
+    ["login_footer", ["\\branding\\ModelActions", "styling"]],
+    ["login_footer", ["\\branding\\ModelActions", "customizePreviewSettings"]]
+]

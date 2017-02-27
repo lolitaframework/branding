@@ -1,0 +1,4 @@
+{
+    "wp_login_footer" : ["\\branding\\ModelShortcodes", "wpLoginFooter"],
+    "wp_login_header" : ["\\branding\\ModelShortcodes", "wpLoginHeader"]
+}

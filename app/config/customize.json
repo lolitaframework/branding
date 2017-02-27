@@ -1,0 +1,140 @@
+[
+    {
+        "title" : "Login Page Branding",
+        "description" : "Styling and branding your login page",
+        "__SECTIONS__" : [
+            {
+                "title" : "Branding",
+                "description" : "Branding options",
+                "__CONTROLS__" : [
+                    {
+                        "label" : "Sign in slug",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultSignIn"]
+                        }
+                    },
+                    {
+                        "label" : "Sign up slug",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultSignUp"]
+                        }
+                    },
+                    {
+                        "label" : "Lost password slug",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultLostPassword"]
+                        }
+                    },
+                    {
+                        "label" : "Logo",
+                        "__CLASS__" : "WP_Customize_Image_Control"
+                    },
+                    {
+                        "label" : "Background",
+                        "__CLASS__" : "WP_Customize_Image_Control"
+                    },
+                    {
+                        "label" : "Phone",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultPhone"]
+                        }
+                    },
+                    {
+                        "label" : "Email",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultEmail"]
+                        }
+                    },
+                    {
+                        "label" : "Description",
+                        "type" : "textarea",
+                        "rows" : "20",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultDescription"]
+                        }
+                    }
+                ]
+            },
+            {
+                "title" : "Styling",
+                "description" : "Deface your login page",
+                "__CONTROLS__" : [
+                    {
+                        "label" : "Logo width ( in pixels )",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultLogoWidth"]
+                        }
+                    },
+                    {
+                        "label" : "Logo height ( in pixels )",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultLogoHeight"]
+                        }
+                    },
+                    {
+                        "label" : "Background color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultBgColor"]
+                        }
+                    },
+                    {
+                        "label" : "Text color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultTextColor"]
+                        }
+                    },
+                    {
+                        "label" : "Hover effect color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultHoverEffectColor"]
+                        }
+                    },
+                    {
+                        "label" : "Border color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultBorderColor"]
+                        }
+                    },
+                    {
+                        "label" : "Input background color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultInputBackgroundColor"]
+                        }
+                    },
+                    {
+                        "label" : "Input text color",
+                        "__CLASS__" : "WP_Customize_Color_Control",
+                        "__SETTINGS__" : {
+                            "default" : ["\\branding\\ModelOptions", "defaultInputTextColor"]
+                        }
+                    }
+                ]
+            },
+            {
+                "title" : "Advanced",
+                "description" : "Advanced plugin options",
+                "__CONTROLS__" : [
+                    {
+                        "label" : "Redirect URL",
+                        "description" : "The user will be redirected to this link after login.",
+                        "__SETTINGS__" : {
+                            "default" : ""
+                        }
+                    },
+                    {
+                        "label" : "Block unauthorized users",
+                        "description" : "When you enable this option, all unauthorized users will go to the login page.",
+                        "__SETTINGS__" : {
+                            "default" : ""
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
