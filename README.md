@@ -6,6 +6,21 @@
 
 Make your login page beautiful. Customize your WordPress login page. Branding allows you to quickly and easily create stylish and professional login screens which extend and incorporate the look and feel of the host website and/or the target management interface.
 
+## Development team
+
+The plugin was created by [Guriev Eugen](mailto:eugen.guriev@lolitaframework.com), who continues to lead the development.
+
+## Contributing
+
+Any help is appreciated. The project is open-source and we encourage you to participate. You can contribute to the project in multiple ways by:
+
+* Reporting a bug issue
+* Suggesting features
+* Sending a pull request with code fix or feature
+* Following the project on GitHub
+* Following us on Twitter
+* Sharing the project around your community
+
 ## Getting Started
 
 To get started, just install the included plugin in your downloaded file from envato market.
