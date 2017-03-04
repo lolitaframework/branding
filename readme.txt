@@ -31,7 +31,7 @@ Any help is appreciated. The project is open-source and we encourage you to part
 * Sharing the project around your community
 
 **Links**
-
+* [Repository](https://github.com/lolitaframework/branding)
 * [Loliat Framework](http://lolitaframework.com)
 * [Docs](http://lolitaframework.com/2016/11/24/lolita-framework/)
 * [GitHub](https://github.com/gcofficial)
@@ -54,10 +54,19 @@ To get started, just install the included plugin in your downloaded file from en
 
 == Screenshots ==
 1. Theme 1.
+**Video:** [https://www.youtube.com/watch?v=8WhjVr5n2PY](https://www.youtube.com/watch?v=8WhjVr5n2PY)
+
 2. Theme 2.
+**Video:** [ https://www.youtube.com/watch?v=A_csIzoUI1k](https://www.youtube.com/watch?v=A_csIzoUI1k)
+
 3. Theme 3.
+**Video:** [https://www.youtube.com/watch?v=sDomNVaC_Uc](https://www.youtube.com/watch?v=sDomNVaC_Uc)
+
 4. Theme 4.
+**Video:** [https://www.youtube.com/watch?v=6iEFrnv8jhE](https://www.youtube.com/watch?v=6iEFrnv8jhE)
+
 5. Theme 5.
+**Video:** [https://www.youtube.com/watch?v=uJoI5w6aEsw](https://www.youtube.com/watch?v=uJoI5w6aEsw)
 
 == Changelog ==
 

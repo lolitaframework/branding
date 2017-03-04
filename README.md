@@ -26,6 +26,7 @@ Any help is appreciated. The project is open-source and we encourage you to part
 
 ## Links
 
+* [Repository](https://github.com/lolitaframework/branding)
 * [Loliat Framework](http://lolitaframework.com)
 * [Docs](http://lolitaframework.com/2016/11/24/lolita-framework/)
 * [GitHub](https://github.com/gcofficial)
